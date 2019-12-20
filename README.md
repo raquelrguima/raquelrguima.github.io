@@ -1,2 +1,1 @@
-# mywebpage
-Webpage for Dr. Raquel Guimaraes
+# Webpage for Dr. Raquel Guimaraes
