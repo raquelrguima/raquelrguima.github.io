@@ -25,6 +25,18 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
+### Other academic profiles
+
+[LinkedIn](https://www.linkedin.com/in/raquelrguima/)
+[Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5)
+[Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ)
+[Academia.edu](https://ufpr.academia.edu/raquelrguima)
+[ORCID](https://orcid.org/0000-0003-1754-9238)
+
+# Social Network
+
+[Twitter](https://twitter.com/raquelrguima)
+
 ### Contact
 
 guimaraes[at]iiasa.ac.at
