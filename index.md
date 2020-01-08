@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Dr. Raquel Guimaraes webpage
 
-You can use the [editor on GitHub](https://github.com/raquelrguima/raquelrguima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dr. Guimaraes is currently a Post Doctoral Research Fellow at the International Institute for Applied Systems Analysis (IIASA, Austria). She is in a sabbatical leave as a Professor in the Economics Department at Federal University of Paraná (Brazil).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
-### Markdown
+Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degrees in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+- Federal University of Minas Gerais, Doctorate, Demography, 2014
+- Stanford University, M.A, International and Comparative Education, 2012
+- Federal University of Minas Gerais, M.A, Demography, 2010
+- Federal University of Minas Gerais, B.A., Economics, 2007
 
-# Header 1
-## Header 2
-### Header 3
+### Honors and Awards
 
-- Bulleted
-- List
+- CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
+- Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
+- Commencement speaker, Economics class of 2017. Federal University of Parana.
+- Edital Universal CNPq Grant, 2016.
+- Nominated member of the Advisory Committee for Educational Policy Evaluation at the Brazilian Ministry of Education. 2015-present.
+- Dissertation Fellowship, Federal University of Minas Gerais, 2010-2011 and 2012-2014.
+- M.A. Fellowship, Stanford University, 2011-2012.
+- Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
+- Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raquelrguima/raquelrguima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+guimaraes[at]iiasa.ac.at
