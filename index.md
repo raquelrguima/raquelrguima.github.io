@@ -1,4 +1,4 @@
-## Welcome to Dr. Raquel Guimaraes' webpage
+## Introduction
 
 Dr. Guimaraes is currently a Post Doctoral Research Fellow at the International Institute for Applied Systems Analysis (IIASA, Austria). She is in a sabbatical leave as a Professor in the Economics Department at Federal University of Paraná (Brazil).
 
@@ -38,7 +38,8 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 [Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5) | 
 [Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ) | 
 [Academia.edu](https://ufpr.academia.edu/raquelrguima) | 
-[ORCID](https://orcid.org/0000-0003-1754-9238)
+[ORCID](https://orcid.org/0000-0003-1754-9238) | 
+[OSF](osf.io/dzk93)
 
 # Social Network
 
