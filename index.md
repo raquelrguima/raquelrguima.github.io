@@ -1,3 +1,5 @@
+![Photo](https://user-images.githubusercontent.com/10067360/72031868-16f32600-328e-11ea-8784-da63c0dda138.JPG)
+
 ## Introduction
 
 Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/) (IIASA, Austria). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
