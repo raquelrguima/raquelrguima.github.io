@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme                    : jekyll-theme-cayman
+title                    : "Raquel Guimaraes' webpage"
+name                     : &name "Raquel Guimaraes"
+description              : &description "Academic cv and current affiliation"
