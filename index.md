@@ -1,10 +1,17 @@
-## Welcome to Dr. Raquel Guimaraes webpage
+## Welcome to Dr. Raquel Guimaraes' webpage
 
 Dr. Guimaraes is currently a Post Doctoral Research Fellow at the International Institute for Applied Systems Analysis (IIASA, Austria). She is in a sabbatical leave as a Professor in the Economics Department at Federal University of Paraná (Brazil).
 
 Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
 Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degrees in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
+
+### Academic Affiliations
+
+- Guest Postdoctoral Research Scholar, International Institute for Applied System Analysis, 2019-present
+- Assistant Professor, Department of Economics, Federal University of Paraná, 2014-present
+- Visiting Research Fellow, Brazilian Institute for Applied Economic Resarch, 2016-2019
+- Substitute Professor, Department of Economics, Federal University of Minas Gerais, 2011-2012
 
 ### Education
 
@@ -39,4 +46,5 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 
 ### Contact
 
-guimaraes[at]iiasa.ac.at
+guimaraes[at]iiasa.ac.at | 
+raquel.guimaraes[at]ufpr.br
