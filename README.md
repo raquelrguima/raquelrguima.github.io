@@ -8,7 +8,7 @@ Raquel teaches courses in economic demography, development microeconomics and ec
 
 Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
 
-# Academic Affiliations
+# Affiliations
 
 - Guest Postdoctoral Research Scholar, International Institute for Applied System Analysis, 2019-present
 - Assistant Professor, Department of Economics, Federal University of Paraná, 2014-present
