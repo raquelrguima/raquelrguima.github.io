@@ -1,7 +1,23 @@
 theme                    : jekyll-theme-cayman
 title                    : "Raquel Guimaraes' webpage"
+tagline                  : Academic cv and current affiliation
 name                     : &name "Raquel Guimaraes"
 description              : &description "Academic cv and current affiliation"
+
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Raquel Guimaraes
+  
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
 
 plugins:
   - jekyll-relative-links
