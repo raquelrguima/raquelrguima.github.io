@@ -8,21 +8,21 @@ Raquel teaches courses in economic demography, development microeconomics and ec
 
 Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
 
-# Affiliations
+<h1  id="affiliations">Affiliations</h1>
 
 - Guest Postdoctoral Research Scholar, International Institute for Applied System Analysis, 2019-present
 - Assistant Professor, Department of Economics, Federal University of Paraná, 2014-present
 - Visiting Research Fellow, Brazilian Institute for Applied Economic Resarch, 2016-2019
 - Substitute Professor, Department of Economics, Federal University of Minas Gerais, 2011-2012
 
-# Education
+<h1  id="education">Education</h1>
 
 - Federal University of Minas Gerais, Doctorate, Demography, 2014
 - Stanford University, M.A, International and Comparative Education, 2012
 - Federal University of Minas Gerais, M.A, Demography, 2010
 - Federal University of Minas Gerais, B.A., Economics, 2007
 
-# Honors and Awards
+<h1  id="honors-awards">Honors and Awards</h1>
 
 - CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
 - Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
@@ -34,7 +34,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-# Other academic profiles
+<h1  id="other-profiles">Other Academic Profiles</h1>
 
 [LinkedIn](https://www.linkedin.com/in/raquelrguima/) | 
 [Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5) | 
@@ -43,11 +43,11 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 [ORCID](https://orcid.org/0000-0003-1754-9238) | 
 [OSF](osf.io/dzk93)
 
-# Social Network
+<h1  id="social-network">Social Network</h1>
 
 [Twitter](https://twitter.com/raquelrguima)
 
-# Contact
+<h1  id="contact">Contact</h1>
 
 guimaraes[at]iiasa.ac.at | 
 raquel.guimaraes[at]ufpr.br
