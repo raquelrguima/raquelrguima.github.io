@@ -1,69 +1,53 @@
-# Jekyll Cayman theme
+![Photo](https://user-images.githubusercontent.com/10067360/72031868-16f32600-328e-11ea-8784-da63c0dda138.JPG)
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+## Introduction
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/) (IIASA, Austria). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
 
-You can preview the theme at https://jasonlong.github.io/cayman-theme or with real content at https://jasonlong.github.io/geo_pattern.
+Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
-![](https://cl.ly/image/1T3r3d18311V/content)
+Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
 
-# How to use it?
+### Academic Affiliations
 
-Download the theme @ https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
+- Guest Postdoctoral Research Scholar, International Institute for Applied System Analysis, 2019-present
+- Assistant Professor, Department of Economics, Federal University of Paraná, 2014-present
+- Visiting Research Fellow, Brazilian Institute for Applied Economic Resarch, 2016-2019
+- Substitute Professor, Department of Economics, Federal University of Minas Gerais, 2011-2012
 
-Unzip it and use it as a regular jekyll folder.
+### Education
 
-```
-$ unzip jekyll-cayman-theme-master.zip
-```
+- Federal University of Minas Gerais, Doctorate, Demography, 2014
+- Stanford University, M.A, International and Comparative Education, 2012
+- Federal University of Minas Gerais, M.A, Demography, 2010
+- Federal University of Minas Gerais, B.A., Economics, 2007
 
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme-master
-```
+### Honors and Awards
 
-Get the required gems
-```
-$ bundle install
-```
+- CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
+- Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
+- Commencement speaker, Economics class of 2017. Federal University of Parana.
+- Edital Universal CNPq Grant, 2016.
+- Nominated member of the Advisory Committee for Educational Policy Evaluation at the Brazilian Ministry of Education. 2015-present.
+- Dissertation Fellowship, Federal University of Minas Gerais, 2010-2011 and 2012-2014.
+- M.A. Fellowship, Stanford University, 2011-2012.
+- Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
+- Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-Use it!
+### Other academic profiles
 
-```
-$ jekyll serve
-```
+[LinkedIn](https://www.linkedin.com/in/raquelrguima/) | 
+[Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5) | 
+[Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ) | 
+[Academia.edu](https://ufpr.academia.edu/raquelrguima) | 
+[ORCID](https://orcid.org/0000-0003-1754-9238) | 
+[OSF](osf.io/dzk93)
 
-For more details read about [Jekyll][1] on its web page.
+# Social Network
 
-# Setup
+[Twitter](https://twitter.com/raquelrguima)
 
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
+### Contact
 
-
-## baseurl
-
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: https://pietromenna.github.io/jekyll-cayman-theme
-
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenna/jekyll-cayman-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: https://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: https://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+guimaraes[at]iiasa.ac.at | 
+raquel.guimaraes[at]ufpr.br
