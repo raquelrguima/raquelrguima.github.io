@@ -4,3 +4,6 @@ google_analytics: UA-61866064-2
 
 plugins:
 - jekyll-menus
+
+title: Welcome to Dr. Raquel Guimaraes' website
+description: Academic and Professional Achievements
