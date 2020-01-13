@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+![Photo](https://user-images.githubusercontent.com/10067360/72031868-16f32600-328e-11ea-8784-da63c0dda138.JPG?style=centerme)
 
-You can use the [editor on GitHub](https://github.com/raquelrguima/raquelrguima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1  id="introduction">Introduction</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/) (IIASA, Austria). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
 
-### Markdown
+Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
 
-```markdown
-Syntax highlighted code block
+<h1  id="affiliations">Affiliations</h1>
 
-# Header 1
-## Header 2
-### Header 3
+- Guest Postdoctoral Research Scholar, International Institute for Applied System Analysis, 2019-present
+- Assistant Professor, Department of Economics, Federal University of Paraná, 2014-present
+- Visiting Research Fellow, Brazilian Institute for Applied Economic Resarch, 2016-2019
+- Substitute Professor, Department of Economics, Federal University of Minas Gerais, 2011-2012
 
-- Bulleted
-- List
+<h1  id="education">Education</h1>
 
-1. Numbered
-2. List
+- Federal University of Minas Gerais, Doctorate, Demography, 2014
+- Stanford University, M.A, International and Comparative Education, 2012
+- Federal University of Minas Gerais, M.A, Demography, 2010
+- Federal University of Minas Gerais, B.A., Economics, 2007
 
-**Bold** and _Italic_ and `Code` text
+<h1  id="honors-awards">Honors and Awards</h1>
 
-[Link](url) and ![Image](src)
-```
+- Summer Program in Social Science Fellow, Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
+- CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
+- Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
+- Commencement speaker, Economics class of 2017. Federal University of Parana.
+- Edital Universal CNPq Grant, 2016.
+- Nominated member of the Advisory Committee for Educational Policy Evaluation at the Brazilian Ministry of Education. 2015-present.
+- Dissertation Fellowship, Federal University of Minas Gerais, 2010-2011 and 2012-2014.
+- M.A. Fellowship, Stanford University, 2011-2012.
+- Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
+- Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1  id="publications">Selected Publications</h1>
 
-### Jekyll Themes
+- Kroth, D. C. (2019). [The effects of time on the performance of local government: The Pact for Health Care Program.](http://dx.doi.org/10.1590/0034-761220180440x) Revista de Administração Pública, 53(6), 1138–1160.
+- Kroth, D. C., Guimaraes, R. (2018). [The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model.](https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/19280) Proceedings of the Population Association of America Annual Meeting, Denver, CO.
+- Turra, C. M., Renteria, E., Guimaraes, R. (2016). [The Effect of Changes in Educational Composition on Adult Female Mortality in Brazil.](https://doi.org/10.1177/0164027515620245) Research on Aging, 38(3), 283–298.
+- Guimaraes, R. (2014). [Uncertainty in population projections: The state of the art.](http://dx.doi.org/10.1590/S0102-30982014000200003) Revista Brasileira de Estudos Populacionais, 31(2), 277–290.
+- Guimaraes, R. (2013). [The future of higher education in BRIC countries: A demographic perspective.](http://dx.doi.org/10.1590/S0102-30982013000200011) Revista Brasileira de Estudos de População, 30(2), 549–566.
+- Rios-Neto, E., Guimaraes, R. (2013). The Educational Gradient of Low Fertility in Latin America. XXVII IUSSP International Population Conference Program.
+- Rios-Neto, E., Guimaraes, R. (2010). [The demography of education in Brazil: Inequality of educational opportunities based on Grade Progression Probability (1986-2008).](http://dx.doi.org/10.1553/populationyearbook2010s283) Vienna Yearbook of Population Research, 8, 283–312.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raquelrguima/raquelrguima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h1  id="other-profiles">Other Academic Profiles</h1>
 
-### Support or Contact
+[LinkedIn](https://www.linkedin.com/in/raquelrguima/) | 
+[Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5) | 
+[Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ) | 
+[Academia.edu](https://ufpr.academia.edu/raquelrguima) | 
+[ORCID](https://orcid.org/0000-0003-1754-9238) | 
+[OSF](osf.io/dzk93)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1  id="social-network">Social Network</h1>
+
+[Twitter](https://twitter.com/raquelrguima)
+
+<h1  id="contact">Contact</h1>
+
+guimaraes[at]iiasa.ac.at | 
+raquel.guimaraes[at]ufpr.br
