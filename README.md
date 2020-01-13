@@ -47,9 +47,9 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 <h1  id="selected-publications">Selected Publications</h1>
 
 
-<!-- Kroth, D. C. (2019). The effects of time on the performance of local government: The "Pact for Health Care" Program. Revista de Administração Pública, 53(6), 1138–1160. [DOI](http://dx.doi.org/10.1590/0034-761220180440x)
+Kroth, D. C. (2019). The effects of time on the performance of local government: The "Pact for Health Care" Program. Revista de Administração Pública, 53(6), 1138–1160. [DOI](http://dx.doi.org/10.1590/0034-761220180440x)
 
-Kroth, D. C., Guimaraes, R. (2018). The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model. Proceedings of the Population Association of America Annual Meeting, Denver, CO.
+<!-- Kroth, D. C., Guimaraes, R. (2018). The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model. Proceedings of the Population Association of America Annual Meeting, Denver, CO.
 
 Guimaraes, R., Carvalho, J. C. (2018). Gender differentials in the effect of teacher attributes on student achievement: A case study for Brazil in 2015. 62nd Annual Meeting of the Comparative and International Education Society, Mexico City.
 
