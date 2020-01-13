@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gemspec
+
 
 gem 'jekyll'
 gem 'jekyll-paginate'
@@ -11,3 +11,8 @@ group :jekyll_plugins do
 end
 
 gem "github-pages", group: :jekyll_plugins
+
+# frozen_string_literal: true
+
+
+gemspec
