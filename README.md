@@ -44,7 +44,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-<h1  id="selected-publications">Selected Publications</h1>
+<h1 id="publications">Selected Publications</h1>
 
 
 Kroth, D. C. (2019). The effects of time on the performance of local government: The "Pact for Health Care" Program. Revista de Administração Pública, 53(6), 1138–1160. [DOI](http://dx.doi.org/10.1590/0034-761220180440x)
