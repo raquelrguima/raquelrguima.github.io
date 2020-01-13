@@ -47,9 +47,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 <h1  id="publications">Selected Publications</h1>
 
 - Kroth, D. C. (2019). [The effects of time on the performance of local government: The Pact for Health Care Program.](http://dx.doi.org/10.1590/0034-761220180440x) Revista de Administração Pública, 53(6), 1138–1160.
-- Kroth, D. C., Guimaraes, R. (2018). The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model. Proceedings of the Population Association of America Annual Meeting, Denver, CO.
-- Guimaraes, R., Carvalho, J. C. (2018). Gender differentials in the effect of teacher attributes on student achievement: A case study for Brazil in 2015. 62nd Annual Meeting of the Comparative and International Education Society, Mexico City.
-- Guimaraes, R., Lima, M. C., Carvalho, J. C. (2018). "Money is not the only answer, but it makes a difference": Education Financing in Brazilian Municipalities and Quality Outcomes in the period 2011-2015. 62nd Annual Meeting of the Comparative and International Education Society, Mexico City.
+- Kroth, D. C., Guimaraes, R. (2018). [The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model.](https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/19280) Proceedings of the Population Association of America Annual Meeting, Denver, CO.
 - Turra, C. M., Renteria, E., Guimaraes, R. (2016). [The Effect of Changes in Educational Composition on Adult Female Mortality in Brazil.](https://doi.org/10.1177/0164027515620245) Research on Aging, 38(3), 283–298.
 - Guimaraes, R. (2014). [Uncertainty in population projections: The state of the art.](http://dx.doi.org/10.1590/S0102-30982014000200003) Revista Brasileira de Estudos Populacionais, 31(2), 277–290.
 - Guimaraes, R. (2013). [The future of higher education in BRIC countries: A demographic perspective.](http://dx.doi.org/10.1590/S0102-30982013000200011) Revista Brasileira de Estudos de População, 30(2), 549–566.
