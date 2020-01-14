@@ -35,7 +35,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-<h1  id="publications">Selected Publications</h1>
+<h1  id="publications">Publications</h1>
 
 - Kroth, D. C. (2019). [The effects of time on the performance of local government: The Pact for Health Care Program.](http://dx.doi.org/10.1590/0034-761220180440x) Revista de Administração Pública, 53(6), 1138–1160.
 - Kroth, D. C., Guimaraes, R. (2018). [The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model.](https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/19280) Proceedings of the Population Association of America Annual Meeting, Denver, CO.
@@ -45,17 +45,14 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Rios-Neto, E., Guimaraes, R. (2013). The Educational Gradient of Low Fertility in Latin America. XXVII IUSSP International Population Conference Program.
 - Rios-Neto, E., Guimaraes, R. (2010). [The demography of education in Brazil: Inequality of educational opportunities based on Grade Progression Probability (1986-2008).](http://dx.doi.org/10.1553/populationyearbook2010s283) Vienna Yearbook of Population Research, 8, 283–312.
 
-<h1  id="other-profiles">Other Academic Profiles</h1>
+<h1  id="other-profiles">Other Profiles</h1>
 
 [LinkedIn](https://www.linkedin.com/in/raquelrguima/) | 
 [Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5) | 
 [Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ) | 
 [Academia.edu](https://ufpr.academia.edu/raquelrguima) | 
 [ORCID](https://orcid.org/0000-0003-1754-9238) | 
-[OSF](osf.io/dzk93)
-
-<h1  id="social-network">Social Network</h1>
-
+[OSF](osf.io/dzk93) |
 [Twitter](https://twitter.com/raquelrguima)
 
 <h1  id="contact">Contact</h1>
