@@ -3,3 +3,37 @@ description: Welcome to my professional webpage.
 show_downloads: true
 google_analytics: UA-61866064-2
 theme: jekyll-theme-cayman
+
+tagline                  : Welcome to my professional page!
+name                     : &name "Raquel Guimaraes"
+description              : &description "Welcome to my professional page!"
+
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Raquel Guimaraes
+  
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
