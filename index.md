@@ -2,122 +2,56 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Photo](https://user-images.githubusercontent.com/10067360/72031868-16f32600-328e-11ea-8784-da63c0dda138.JPG?style=centerme)
 
-[Link to another page](./another-page.html).
+<h1  id="introduction">Introduction</h1>
 
-There should be whitespace between paragraphs.
+Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/) (IIASA, Austria). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
-# Header 1
+Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<h1  id="affiliations">Affiliations</h1>
 
-## Header 2
+- Guest Postdoctoral Research Scholar, International Institute for Applied System Analysis, 2019-present
+- Assistant Professor, Department of Economics, Federal University of Paraná, 2014-present
+- Visiting Research Fellow, Brazilian Institute for Applied Economic Resarch, 2016-2019
+- Substitute Professor, Department of Economics, Federal University of Minas Gerais, 2011-2012
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<h1  id="education">Education</h1>
 
-### Header 3
+- Federal University of Minas Gerais, Doctorate, Demography, 2014
+- Stanford University, M.A, International and Comparative Education, 2012
+- Federal University of Minas Gerais, M.A, Demography, 2010
+- Federal University of Minas Gerais, B.A., Economics, 2007
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<h1  id="honors-awards">Honors and Awards</h1>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
+- Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
+- Commencement speaker, Economics class of 2017. Federal University of Parana.
+- Edital Universal CNPq Grant, 2016.
+- Nominated member of the Advisory Committee for Educational Policy Evaluation at the Brazilian Ministry of Education. 2015-present.
+- Dissertation Fellowship, Federal University of Minas Gerais, 2010-2011 and 2012-2014.
+- M.A. Fellowship, Stanford University, 2011-2012.
+- Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
+- Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-#### Header 4
+<h1  id="other-profiles">Other Academic Profiles</h1>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[LinkedIn](https://www.linkedin.com/in/raquelrguima/) | 
+[Research Gate](https://www.researchgate.net/profile/Raquel_Guimaraes5) | 
+[Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ) | 
+[Academia.edu](https://ufpr.academia.edu/raquelrguima) | 
+[ORCID](https://orcid.org/0000-0003-1754-9238) | 
+[OSF](osf.io/dzk93)
 
-##### Header 5
+<h1  id="social-network">Social Network</h1>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[Twitter](https://twitter.com/raquelrguima)
 
-###### Header 6
+<h1  id="contact">Contact</h1>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+guimaraes[at]iiasa.ac.at | 
+raquel.guimaraes[at]ufpr.br
