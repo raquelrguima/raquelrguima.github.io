@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![Photo](https://user-images.githubusercontent.com/10067360/72031868-16f32600-328e-11ea-8784-da63c0dda138.JPG?style=centerme)
 
 <h1  id="introduction">Introduction</h1>
@@ -28,6 +24,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 
 <h1  id="honors-awards">Honors and Awards</h1>
 
+- Summer Program in Social Science Fellow, Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
 - CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
 - Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
 - Commencement speaker, Economics class of 2017. Federal University of Parana.
@@ -37,6 +34,16 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - M.A. Fellowship, Stanford University, 2011-2012.
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
+
+<h1  id="publications">Selected Publications</h1>
+
+- Kroth, D. C. (2019). [The effects of time on the performance of local government: The Pact for Health Care Program.](http://dx.doi.org/10.1590/0034-761220180440x) Revista de Administração Pública, 53(6), 1138–1160.
+- Kroth, D. C., Guimaraes, R. (2018). [The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model.](https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/19280) Proceedings of the Population Association of America Annual Meeting, Denver, CO.
+- Turra, C. M., Renteria, E., Guimaraes, R. (2016). [The Effect of Changes in Educational Composition on Adult Female Mortality in Brazil.](https://doi.org/10.1177/0164027515620245) Research on Aging, 38(3), 283–298.
+- Guimaraes, R. (2014). [Uncertainty in population projections: The state of the art.](http://dx.doi.org/10.1590/S0102-30982014000200003) Revista Brasileira de Estudos Populacionais, 31(2), 277–290.
+- Guimaraes, R. (2013). [The future of higher education in BRIC countries: A demographic perspective.](http://dx.doi.org/10.1590/S0102-30982013000200011) Revista Brasileira de Estudos de População, 30(2), 549–566.
+- Rios-Neto, E., Guimaraes, R. (2013). The Educational Gradient of Low Fertility in Latin America. XXVII IUSSP International Population Conference Program.
+- Rios-Neto, E., Guimaraes, R. (2010). [The demography of education in Brazil: Inequality of educational opportunities based on Grade Progression Probability (1986-2008).](http://dx.doi.org/10.1553/populationyearbook2010s283) Vienna Yearbook of Population Research, 8, 283–312.
 
 <h1  id="other-profiles">Other Academic Profiles</h1>
 
