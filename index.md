@@ -35,7 +35,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
-<h1  id="publications">Publications</h1>
+<h1  id="publications">Last Publications</h1>
 
 - Kroth, D. C. (2019). [The effects of time on the performance of local government: The Pact for Health Care Program.](http://dx.doi.org/10.1590/0034-761220180440x) Revista de Administração Pública, 53(6), 1138–1160.
 - Kroth, D. C., Guimaraes, R. (2018). [The Efficiency of Primary Health Care Policy in Brazilian Municipalities: An Application of Pearl’s Structural Causal Model.](https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/19280) Proceedings of the Population Association of America Annual Meeting, Denver, CO.
