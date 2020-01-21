@@ -24,14 +24,14 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 
 <h1  id="honors-awards">Honors and Awards</h1>
 
-- Summer Program in Social Science Fellow, Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
-- CAPES-IIASA Post-Doctorate Fellowship, 2019/2021.
-- Visiting Research Fellowship, Brazilian Institute for Applied Economic Resarch, 2016-2019.
+- [Summer Program in Social Science Fellow](https://www.sss.ias.edu/spss), Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
+- [CAPES-IIASA Post-Doctorate Fellowship](https://www.iiasa.ac.at/web/home/education/postdoctoralProgram/Apply/IIASA-Brazil_Postdoctoral_Fellowship.html), 2019/2021.
+- Visiting Research Scholar, [Brazilian Institute for Applied Economic Resarch](http://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61), 2016-2019.
 - Commencement speaker, Economics class of 2017. Federal University of Parana.
 - Edital Universal CNPq Grant, 2016.
 - Nominated member of the Advisory Committee for Educational Policy Evaluation at the Brazilian Ministry of Education. 2015-present.
 - Dissertation Fellowship, Federal University of Minas Gerais, 2010-2011 and 2012-2014.
-- M.A. Fellowship, Stanford University, 2011-2012.
+- [Lemann Center Fellowship](https://lemanncenter.stanford.edu/people/raquel-guimaraes), Stanford University, 2011-2012.
 - Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
 - Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
 
