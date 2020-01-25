@@ -2,7 +2,7 @@
 
 <h1  id="introduction">Introduction</h1>
 
-Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/) (IIASA, Austria). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
+Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=guimaraes) (IIASA, Austria) and in the [Wittgenstein Center for Demography and Human Capital](http://www.wittgensteincentre.org/en/staff/member/guimaraes.htm). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
 
 Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
