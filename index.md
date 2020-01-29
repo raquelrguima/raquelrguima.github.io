@@ -6,7 +6,7 @@ Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International
 
 Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
 
-Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014. 
+Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014.
 
 <h1  id="affiliations">Affiliations</h1>
 
