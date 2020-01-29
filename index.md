@@ -1,4 +1,4 @@
-![Photo](https://github.com/raquelrguima/raquelrguima.github.io/blob/master/Guimaraes_Profile.jpg)
+![Guimaraes_Profile](https://user-images.githubusercontent.com/10067360/73357936-d2134b80-429d-11ea-9f79-eb58fc4faa12.jpg)
 
 <h1  id="introduction">Introduction</h1>
 
