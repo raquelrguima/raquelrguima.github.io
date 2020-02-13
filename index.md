@@ -22,7 +22,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Federal University of Minas Gerais, M.A, Demography, 2010
 - Federal University of Minas Gerais, B.A., Economics, 2007
 
-<h1  id="honors-awards">Honors and Awards</h1>
+<h1  id="honors-awards">Honors, Awards and Grants</h1>
 
 - [Summer Program in Social Science Fellow](https://www.sss.ias.edu/spss), Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
 - [CAPES-IIASA Post-Doctorate Fellowship](https://www.iiasa.ac.at/web/home/education/postdoctoralProgram/Apply/IIASA-Brazil_Postdoctoral_Fellowship.html), 2019/2021.
@@ -52,6 +52,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 [Google Scholar](https://scholar.google.com/citations?user=4vTBbLYAAAAJ) | 
 [Academia.edu](https://ufpr.academia.edu/raquelrguima) | 
 [ORCID](https://orcid.org/0000-0003-1754-9238) | 
+[Publons](https://publons.com/researcher/3389626/raquel-guimaraes/) | 
 [OSF](osf.io/dzk93) |
 [Twitter](https://twitter.com/raquelrguima)
 
