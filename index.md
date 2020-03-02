@@ -4,7 +4,7 @@
 
 Dr. Guimaraes is currently a Post Doctoral Research Fellow at the [International Institute for Applied Systems Analysis](https://www.iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=guimaraes) (IIASA, Austria) and in the [Wittgenstein Center for Demography and Human Capital](http://www.wittgensteincentre.org/en/staff/member/guimaraes.htm). She is in a sabbatical leave as a Professor in the [Department of Economics at Federal University of Paraná](http://www.sociaisaplicadas.ufpr.br/portal/depecon/) (Brazil).
 
-Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include migration and vulnerability, risks and simulation models. 
+Raquel teaches courses in economic demography, development microeconomics and econometric methods for public policy evaluation. Her current research interests include population and environmental change, human capital quality projections and demography of education. 
 
 Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007 with degree in economics. She completed an MA degree in International Comparative Education at Stanford University (2011) and earned a doctorate in demography from Federal University of Minas Gerais in 2014.
 
@@ -24,7 +24,7 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 
 <h1  id="honors-awards">Honors, Awards and Grants</h1>
 
-- [Summer Program in Social Science Fellow](https://www.sss.ias.edu/spss), Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
+- [Summer Program in Social Science Fellow](https://www.sss.ias.edu/spss-fellows-2020-21), Institute for Advanced Study, Princeton, New Jersey, USA. 2019/2021.
 - [CAPES-IIASA Post-Doctorate Fellowship](https://www.iiasa.ac.at/web/home/education/postdoctoralProgram/Apply/IIASA-Brazil_Postdoctoral_Fellowship.html), 2019/2021.
 - Visiting Research Scholar, [Brazilian Institute for Applied Economic Resarch](http://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61), 2016-2019.
 - Commencement speaker, Economics class of 2017. Federal University of Parana.
@@ -32,8 +32,8 @@ Dr. Guimaraes graduated from Federal University of Minas Gerais, Brazil, in 2007
 - Nominated member of the Advisory Committee for Educational Policy Evaluation at the Brazilian Ministry of Education. 2015-present.
 - Dissertation Fellowship, Federal University of Minas Gerais, 2010-2011 and 2012-2014.
 - [Lemann Center Fellowship](https://lemanncenter.stanford.edu/people/raquel-guimaraes), Stanford University, 2011-2012.
-- Monography Award - Winner - XII Prêmio do Tesouro Nacional, 2007.
-- Monography Award - Winner -  Prêmio IPEA-Caixa de Monografias, 2006.
+- Monography Award - Winner - [XII Prêmio do Tesouro Nacional](http://www.tesouro.fazenda.gov.br/premio/Premio_TN/XIIpremio/corpo_mono_prem_pr12_temas2.html), 2007.
+- Monography Award - Winner - [Prêmio IPEA-Caixa de Monografias](http://www.ipea.gov.br/ipeacaixa/premio2006/), 2006.
 
 <h1  id="publications">Last Publications</h1>
 
