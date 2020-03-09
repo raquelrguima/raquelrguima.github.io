@@ -1,6 +1,5 @@
 layout: page
 title: "Explaining the COVID-19 outbreak and mitigation measures, by Raya Muttarak"
-permalink: /guests/Raya/
 
 ## Explaining the COVID-19 outbreak and mitigation measures
 
