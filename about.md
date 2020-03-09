@@ -18,7 +18,7 @@ The next question is what is happening in Italy, Iran, South Korea and Japan are
 
 If this is likely to be the case, we learnt from an epidemiological transmission model that the public efforts should be put to flatten the epidemic curve. This point is very crucial. Many people say that COVID-19 is like seasonal flu, it is not. It is a new form of virus that none of us has antibody for it. The virus attacks the lower respiratory tract and cause shortness of breath. Since the treatment of severe lung failure caused by COVID-19 requires ventilators to help the patients breath in intensive care units (ICUs), no countries in the world have the capacity to absorb a large number of people who need ICUs at the same time. Experience from Italy shows that about 10% of all positive patients require ICUs (Lintern, 2020). Although efforts have been made to increase ICU capacity, the rapidly growing number of infected patients overloaded the healthcare system. Therefore, measures to reduce transmission to slow down the epidemic over the course of the year will significantly mitigate the impact of COVID-19.
 
-![Alt](https://github.com/raquelrguima/raquelrguima.github.io/blob/master/transmission-model.png "A transmission model with and without intervention")
+![transmission-model](https://user-images.githubusercontent.com/10067360/76249180-1b629d80-6243-11ea-92c9-d27739d2a2f1.png "A transmission model with and without intervention")
 
 Source: Centers for Disease Control and Prevention (CDC) (2007).
 
@@ -28,12 +28,12 @@ Certainly, we will have to follow the protocol of the Austrian Federal Ministry 
 
 ## References
 
-Anderson, R. M., Heesterbeek, H., Klinkenberg, D., & Hollingsworth, T. D. (2020). How will country-based mitigation measures influence the course of the COVID-19 epidemic? The Lancet, 0(0). https://doi.org/10.1016/S0140-6736(20)30567-5
+Anderson, R. M., Heesterbeek, H., Klinkenberg, D., & Hollingsworth, T. D. (2020). How will country-based mitigation measures influence the course of the COVID-19 epidemic? The Lancet, 0(0). [https://doi.org/10.1016/S0140-6736(20)30567-5](https://doi.org/10.1016/S0140-6736(20)30567-5)
 
 CDC. (2007). Interim Pre-pandemic Planning Guidance: Community Strategy for Pandemic Influenza Mitigation in the United States—. Centers for Disease Control and Prevention.
 
-Lintern, S. (2020, March 8). ‘Get ready’: Italian doctors warn Europe of coronavirus impact on hospitals. Independent. https://www.independent.co.uk/news/health/coronavirus-italy-doctors-intensive-care-deaths-a9384356.html
+Lintern, S. (2020, March 8). ‘Get ready’: Italian doctors warn Europe of coronavirus impact on hospitals. Independent. [https://www.independent.co.uk/news/health/coronavirus-italy-doctors-intensive-care-deaths-a9384356.html](https://www.independent.co.uk/news/health/coronavirus-italy-doctors-intensive-care-deaths-a9384356.html)
 
-Mckeever, A. (2020, February 28). Here’s how coronavirus could become a pandemic—and why it matters. National Geographic. https://www.nationalgeographic.com/science/2020/02/how-coronavirus-could-become-pandemic-and-why-it-matters/
+Mckeever, A. (2020, February 28). Here’s how coronavirus could become a pandemic—and why it matters. National Geographic. [https://www.nationalgeographic.com/science/2020/02/how-coronavirus-could-become-pandemic-and-why-it-matters/](https://www.nationalgeographic.com/science/2020/02/how-coronavirus-could-become-pandemic-and-why-it-matters/)
 
 
