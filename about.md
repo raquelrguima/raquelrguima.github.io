@@ -1,9 +1,6 @@
-layout: page
-title: "Explaining the COVID-19 outbreak and mitigation measures, by Raya Muttarak"
-
 ## Explaining the COVID-19 outbreak and mitigation measures
 
-Raya Muttarak([^1])
+Raya Muttarak[^1]
 
 [^1]: Wittgenstein Centre for Demography and Global Human Capital (Univ. Vienna, IIASA, VID/ÖAW), International Institute for Applied Systems Analysis
 
